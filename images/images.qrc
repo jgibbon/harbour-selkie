@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon-s-secure.svg</file>
+        <file>icon-s-insecure.svg</file>
+        <file>icon-m-document.svg</file>
+        <file>icon-m-tab-close.svg</file>
+        <file>icon-m-add.svg</file>
+    </qresource>
+</RCC>

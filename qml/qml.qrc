@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pages/main.qml</file>
+        <file>debug/VisibleArea.qml</file>
+        <file>components/tabContent/NavigationBar.qml</file>
+        <file>components/tabContent/TabItem.qml</file>
+        <file>components/tabContent/HorizontalSwipeButtons.qml</file>
+        <file>components/tabContent/WebView.qml</file>
+        <file>components/tabContent/TabBar.qml</file>
+        <file>SettingsWrapper.qml</file>
+        <file>components/tabContent/TabOverview.qml</file>
+        <file>components/tabContent/PageMenu.qml</file>
+    </qresource>
+</RCC>
